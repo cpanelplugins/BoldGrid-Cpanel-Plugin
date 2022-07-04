@@ -5,7 +5,7 @@ The BoldGrid cPanel integration plugin allows Server Administrators and web host
 Please note, these instructions are intended for a server administrator. This process requires root or sudo access to your server, as well as access to a terminal or SSH.
 
 1. SSH into your server as a user with sudo access, or root.
-2. Run the following command: sudo yum install https://repo.boldgrid.com/cpanel/boldgrid-cpanel-latest.rpm
+2. Run the following command: `sudo yum install https://repo.boldgrid.com/cpanel/boldgrid-cpanel-latest.rpm`
 3. Proceed to acknowledge the installation confirmation with the “y” key.
 4. Log into WHM as the root user, or an administrative reseller.
 5. Navigate to Plugins -> BoldGrid.
